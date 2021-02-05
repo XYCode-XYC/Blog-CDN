@@ -1,0 +1,15 @@
+- class_name: 网站
+  class_desc: 博主的 B站 Github Gitee 等
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-cn/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简单且强大的博客框架
+    - name: 哔哩哔哩动画
+      link: https://space.bilibili.com/438812505
+      avatar: https://i.loli.net/2021/02/05/vjpWMBmzhLXelFC.png
+      descr: 各位大佬投个币吧
+    - name: 码云
+      link: https://gitee.com/XYCode-XYC
+      avatar: https://cdn.jsdelivr.net/gh/XYCode-XYC/Blog-CDN@master//logo_gitee_g_red.svg
+      descr: 博主有幸参与了 Gitee/开源指北 的编写
